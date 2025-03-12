@@ -1,0 +1,6 @@
+Flask
+flask-socketio
+requests
+speechrecognition
+gtts
+python-dotenv
